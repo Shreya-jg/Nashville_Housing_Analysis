@@ -71,6 +71,9 @@ jupyter notebook notebooks/01_data_cleaning.ipynb
 The full methodology, statistical test outputs, and model diagnostics are documented in [Nashville_Housing_Data_Analysis_Report.pdf].
 
 
+## Author
+Shreya - [GitHub](https://github.com/Shreya-jg)
+
 
 
 
